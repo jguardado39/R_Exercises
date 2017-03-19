@@ -106,9 +106,3 @@ x <-c(34, 56, 55, 87, NA, 4, 77, NA, 21, NA, 39)
 ## Which R-statement will cont the number of NA values in x?
 
 ## sum(is.na(x))
-
-
-
-
-
-
